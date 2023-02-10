@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+  
+}
+body{
+    width: 960px;
+    min-height: 400px;
+    margin: 0 auto; 
+}
+h5{
+text-align: center;
+}
